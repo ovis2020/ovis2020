@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ovis2020
 - 👀 I’m interested in python, Saas, Blockchain 
 - 🌱 I’m currently learning python, oop, javascript
-- 💞️ I’m looking to collaborate on blackchain
+- 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me barbijo.azul@gmail.com
 
 <!---
